@@ -8,6 +8,9 @@ After you follow the installation tutorial (Which can be located by scrolling do
 # Getting to Survival
 Firstly, You need to join the server at HorizonsEnd.net, Once you are in the server you will spawn in "limbo", Which is an empty void. to get to survival do /server survival, Or if you want to go to the creative (Building) server you can go to creative by /server creative
 
+> # Protip
+> If you have a gold star (*) next to your name, this means you have "Noob Protection", People cannot attack you unless you attack them first, or trespass on their land. This goes for everyone else with a star aswell
+
 ## Spawning In
 Congratulations, You are in Survival! You will spawn in a station known as Prometheus Station, Which is located in the Asteri system. First you should do /kit starter (Will give you the resources you need to start), and /kit Cheth (Gives you chetherite, which is hyperdrive fuel). After this, You may explore the station, But when you are ready to actually begin go to the Ship Merchant, who will sell you your first spaceship which can be used to traverse the galaxy.
 (You can get a ship by right clicking the "Ship Merchant" Npc, This will cost 200C, You start with 3000C)
